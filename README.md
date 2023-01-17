@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Dipak Kumal</h1>
 <h3 align="center">A passionate Web developer from Nepal</h3>
-<img align="right" alt="coding image" src="https://user-images.githubusercontent.com/67213707/212975512-842d044a-763a-4156-bf59-40efbc9cd758.png" width="400">
+<img align="right" alt="coding image" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif" width="400">
 <p align="right"> <img src="https://i.gifer.com/2un9.gif" alt="dipak1203" /> </p>
 
 - 🔭 I’m currently working on **NodeJs**
