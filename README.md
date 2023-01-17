@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Dipak Kumal</h1>
 <h3 align="center">A passionate Web developer from Nepal</h3>
-<img align="right" alt="coding image" src="https://i.gifer.com/2un9.gif" width="400">
-<p align="left"> <img src="https://i.gifer.com/2un9.gif" alt="dipak1203" /> </p>
+<img align="right" alt="coding image" src="https://user-images.githubusercontent.com/67213707/212975512-842d044a-763a-4156-bf59-40efbc9cd758.png" width="400">
+<p align="right"> <img src="https://i.gifer.com/2un9.gif" alt="dipak1203" /> </p>
 
 - 🔭 I’m currently working on **NodeJs**
 
