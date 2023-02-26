@@ -1,7 +1,7 @@
 ![logo](https://github.com/Dipak1203/Dipak1203/blob/main/Untitled%20design-1.jpg)
 <h1 align="center">Hi 👋, I'm Dipak Kumal</h1>
 <h3 align="center">A passionate Web developer from Nepal</h3>
-<img align="right" alt="coding image" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif](https://i0.wp.com/i.pinimg.com/originals/ef/a7/af/efa7afab53b9930b6e12c8f8cbd0434c.gif?w=1140&ssl=1" width="400">
+<img align="right" alt="coding image" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif" width="400">
 <p align="right"> <img src="https://i.gifer.com/2un9.gif" alt="dipak1203" /> </p>
 
 - 🔭 I’m currently working on **NodeJs**
