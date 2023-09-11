@@ -8,13 +8,13 @@
 
 - 🌱 I’m currently learning **NodeJs**
 
-- 👯 I’m looking to collaborate on **Reack Js**
+- 👯 I’m looking to collaborate on **React Js**
 
 - 🤝 I’m looking for help with **NodeJs**
 
 - 💬 Ask me about **react,javascript**
 
-- 📫 How to reach me **dipakkumal292@gmail.com**
+- 📫 How to reach me **dipakkumal673@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
