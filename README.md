@@ -10,7 +10,7 @@ I am proficient in a wide range of programming languages, including  JavaScript.
 <section>
 <p align="center">
     <a href="https://github.com/Dipak1203/github-readme-streak-stats">
-        <img alt="Dipak streak" src="[https://github-readme-streak-stats.herokuapp.com/?user=Dipak1203&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0](https://github-readme-streak-stats.herokuapp.com/?user=Dipak1203&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0)"/>
+        <img alt="Dipak streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Dipak1203&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0](https://github-readme-streak-stats.herokuapp.com/?user=Dipak1203&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0)"/>
     </a>
 </p>
 <br/>
