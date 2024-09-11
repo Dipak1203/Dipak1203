@@ -34,6 +34,16 @@ I am proficient in a wide range of programming languages, including  JavaScript.
 </a>
   </div>
 
+
+### ⚙️ &nbsp;GitHub Analytics
+
+<p align="center">
+<a href="https://github.com/Dipak1203">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Dipak1203&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Dipak1203&layout=compact&langs_count=8&theme=algolia"/>
+</a>
+</p>
+
 ### Profile Views:
 
 ![Visitor Count](https://profile-counter.glitch.me/Dipak1203/count.svg)
